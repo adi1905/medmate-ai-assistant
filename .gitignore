@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+.env
+
+data/memory_qdrant_store/
+data/qdrant_data/
+data/rag_docs
+data/rag_storage/
+data/checkpointer.db
+data/episodic.db
+data/episodic.db
+
 # Distribution / packaging
 .Python
 build/

@@ -1,0 +1,19 @@
+patient:
+  tools:
+    - get_patient
+    - create_appointment
+    - find_provider
+    - update_appointment
+    - find_appointment
+    - cancel_appointment
+    - get_appointment_history
+    - update_patient_contact_info
+staff:
+  tools:
+    - get_patient
+    - search_patients
+    - create_appointment
+    - update_appointment
+    - cancel_appointment
+    - run_sql
+    - no_show_rate_by_period

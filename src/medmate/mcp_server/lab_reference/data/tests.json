@@ -1,0 +1,154 @@
+[
+  {
+    "test_name": "Creatinine",
+    "aliases": [
+      "creatinine",
+      "serum creatinine",
+      "cr"
+    ],
+    "unit": "mg/dL",
+    "category": "Renal Panel",
+    "description": "Measures creatinine, a waste product filtered by the kidneys, used to assess kidney function."
+  },
+  {
+    "test_name": "TSH",
+    "aliases": [
+      "tsh",
+      "thyroid stimulating hormone",
+      "thyrotropin"
+    ],
+    "unit": "mIU/L",
+    "category": "Thyroid Panel",
+    "description": "Thyroid Stimulating Hormone regulates thyroid gland activity; used to screen thyroid function."
+  },
+  {
+    "test_name": "CO2 (Bicarbonate)",
+    "aliases": [
+      "co2",
+      "bicarbonate",
+      "hco3",
+      "total co2"
+    ],
+    "unit": "mmol/L",
+    "category": "Metabolic Panel",
+    "description": "Bicarbonate reflects the body's acid-base (pH) balance, part of the basic metabolic panel."
+  },
+  {
+    "test_name": "ALT (SGPT)",
+    "aliases": [
+      "alt",
+      "sgpt",
+      "alanine aminotransferase"
+    ],
+    "unit": "U/L",
+    "category": "Liver Panel",
+    "description": "An enzyme mainly found in the liver; elevated levels can indicate liver cell damage."
+  },
+  {
+    "test_name": "Glucose, Fasting",
+    "aliases": [
+      "glucose fasting",
+      "fasting glucose",
+      "fasting blood sugar"
+    ],
+    "unit": "mg/dL",
+    "category": "Metabolic Panel",
+    "description": "Blood sugar level measured after fasting; used to screen for diabetes/prediabetes."
+  },
+  {
+    "test_name": "AST (SGOT)",
+    "aliases": [
+      "ast",
+      "sgot",
+      "aspartate aminotransferase"
+    ],
+    "unit": "U/L",
+    "category": "Liver Panel",
+    "description": "An enzyme found in the liver and muscles; elevated levels can indicate tissue damage."
+  },
+  {
+    "test_name": "WBC Count",
+    "aliases": [
+      "wbc",
+      "white blood cell count",
+      "leukocyte count"
+    ],
+    "unit": "10^3/uL",
+    "category": "CBC",
+    "description": "White blood cell count; part of the complete blood count, reflects immune/infection status."
+  },
+  {
+    "test_name": "Platelet Count",
+    "aliases": [
+      "platelets",
+      "plt",
+      "platelet count"
+    ],
+    "unit": "10^3/uL",
+    "category": "CBC",
+    "description": "Platelets are blood cells involved in clotting; counts outside range may indicate bleeding or clotting risk."
+  },
+  {
+    "test_name": "RBC Count",
+    "aliases": [
+      "rbc",
+      "red blood cell count",
+      "erythrocyte count"
+    ],
+    "unit": "10^6/uL",
+    "category": "CBC",
+    "description": "Red blood cell count; reflects oxygen-carrying capacity of the blood."
+  },
+  {
+    "test_name": "Triglycerides",
+    "aliases": [
+      "triglycerides",
+      "tg"
+    ],
+    "unit": "mg/dL",
+    "category": "Lipid Panel",
+    "description": "A type of fat in the blood; elevated levels are linked to cardiovascular risk."
+  },
+  {
+    "test_name": "Sodium",
+    "aliases": [
+      "sodium",
+      "na"
+    ],
+    "unit": "mmol/L",
+    "category": "Metabolic Panel",
+    "description": "An electrolyte critical for fluid balance and nerve/muscle function."
+  },
+  {
+    "test_name": "Vitamin D, 25-OH",
+    "aliases": [
+      "vitamin d",
+      "25-oh vitamin d",
+      "25-hydroxyvitamin d"
+    ],
+    "unit": "ng/mL",
+    "category": "Vitamins/Metabolic",
+    "description": "Reflects the body's vitamin D stores; used to screen for deficiency."
+  },
+  {
+    "test_name": "LDL Cholesterol",
+    "aliases": [
+      "ldl",
+      "ldl cholesterol",
+      "low density lipoprotein"
+    ],
+    "unit": "mg/dL",
+    "category": "Lipid Panel",
+    "description": "'Bad' cholesterol; elevated levels are associated with cardiovascular disease risk."
+  },
+  {
+    "test_name": "eGFR",
+    "aliases": [
+      "egfr",
+      "estimated glomerular filtration rate"
+    ],
+    "unit": "mL/min/1.73m2",
+    "category": "Renal Panel",
+    "description": "Estimates how well the kidneys filter blood; used to assess kidney function/stage of disease."
+  }
+]
